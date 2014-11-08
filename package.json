@@ -1,0 +1,33 @@
+{
+  "name": "grived",
+  "version": "0.0.0",
+  "description": "Google Drive sync daemon.",
+  "main": "index.js",
+  "bin": {
+    "grived": "grived.js"
+  },
+  "dependencies": {
+    "chokidar": "^0.10.5",
+    "googleapis": "^1.0.20",
+    "rssi": "^0.0.7"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "google",
+    "drive",
+    "sync"
+  ],
+  "author": "Tako Neko <oct8cat@gmail.com>",
+  "license": "MIT",
+  "directories": {
+    "doc": "doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oct8cat/grived-node"
+  },
+  "bugs": {
+    "url": "https://github.com/oct8cat/grived-node/issues"
+  },
+  "homepage": "https://github.com/oct8cat/grived-node"
+}

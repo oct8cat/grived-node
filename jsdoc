@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+jsdoc -d doc lib typedef.js README.md
