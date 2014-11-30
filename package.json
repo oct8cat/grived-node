@@ -9,7 +9,8 @@
   "dependencies": {
     "chokidar": "^0.10.5",
     "googleapis": "^1.0.20",
-    "rssi": "^0.0.7"
+    "rssi": "^0.0.7",
+    "underscore": "^1.7.0"
   },
   "devDependencies": {},
   "keywords": [
